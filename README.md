@@ -6,7 +6,7 @@
 # Repository Structure
 
 Lectures are stored in the `lectures` folder. Within each folder, each lecture will have its own folder with slides. 
-Each problem set and mini-lesson will have their own folders within their respective folders. Kickoff slides (slides discussed before lecture starts) are all contained in `kickoff`.
+Each problem set and mini-lesson will have their own folders within their respective folders. 
 
 ---
 # Accessing the Repository
